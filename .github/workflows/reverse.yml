@@ -47,7 +47,7 @@ jobs:
               dask-geopandas
               kdepy
               matplotlib
-              pulp
+              coincbc
               statsmodels
               osmnx
               fast_hdbscan
