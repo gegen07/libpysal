@@ -47,6 +47,7 @@ jobs:
               dask-geopandas
               kdepy
               matplotlib
+              pulp
               statsmodels
               osmnx
               fast_hdbscan
@@ -59,6 +60,5 @@ jobs:
               tobler
               geosnap
               pointpats
-              spopt
             verbose: true
             parallel: false
